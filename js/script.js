@@ -29,13 +29,13 @@ $(function () { // Same as document.addEventListener("DOMContentLoaded"...
 (function(global){
   var lehza ={};
 
-  var homehtml = "snippets/home-snippet.html";
-  var jsoncategories = "https://sparsh-chaudhari.github.io/restaurant-site-01/categories.json";
+  var homehtml = "/restaurant-site-01/snippets/home-snippet.html";
+  var jsoncategories = "/restaurant-site-01/categories.json";
   var jsonitems ="https://mock-x0i2.onrender.com/menu_items_";
-  var categoryhtml = "snippets/category-snippet.html";   
-  var categoriestitlehtml = "../snippets/categories-title-snippet.html";
-  var itemhtml ="/snippets/item-snippet.html";
-  var itemtitlehtml = "/snippets/item-title-snippet.html";
+  var categoryhtml = "/restaurant-site-01/snippets/category-snippet.html";   
+  var categoriestitlehtml = "/restaurant-site-01/snippets/categories-title-snippet.html";
+  var itemhtml ="/restaurant-site-01/snippets/item-snippet.html";
+  var itemtitlehtml = "/restaurant-site-01/snippets/item-title-snippet.html";
 
   var insertHtml = function(selector, html){
     var target = document.querySelector(selector);
