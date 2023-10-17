@@ -257,7 +257,7 @@ h3.single-item-title{
 /********** Large Devices Only **********/
 @media(min-width: 1200px){
 #logo-img{
-	background: url("/images/logo.png") no-repeat;
+	background: url("../images/logo.png") no-repeat;
 	width: 150px;
 	height: 150px;
 	margin:10px 15px 10px 0;
@@ -274,7 +274,7 @@ h3.single-item-title{
 /********** Medium Devices Only **********/
 @media(min-width:992px) and (max-width:1199px){
 #logo-img{
-	background: url(".../images/logo-mid.png") no-repeat;
+	background: url("../images/logo-mid.png") no-repeat;
 	width: 100px;
 	height: 100px;
 	margin:10px 15px 10px 0;
@@ -342,7 +342,7 @@ h3.single-item-title{
 
 #logo-img{
 	display: flex;
-	background: url("/images/logo-xs.png") no-repeat;
+	background: url("../images/logo-xs.png") no-repeat;
 	width: 80px;
 	height: 80px;
 	margin:10px 15px 10px 10px;
