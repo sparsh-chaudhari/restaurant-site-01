@@ -257,7 +257,7 @@ h3.single-item-title{
 /********** Large Devices Only **********/
 @media(min-width: 1200px){
 #logo-img{
-	background: url("/images/logo.png") no-repeat;
+	background: url("../images/logo.png") no-repeat;
 	width: 150px;
 	height: 150px;
 	margin:10px 15px 10px 0;
