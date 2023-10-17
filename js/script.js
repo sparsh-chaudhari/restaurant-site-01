@@ -33,7 +33,7 @@ $(function () { // Same as document.addEventListener("DOMContentLoaded"...
   var jsoncategories = "./categories.json";
   var jsonitems ="https://mock-x0i2.onrender.com/menu_items_";
   var categoryhtml = "./snippets/category-snippet.html";   
-  var categoriestitlehtml = "../snippets/categories-title-snippet.html";
+  var categoriestitlehtml = ".../snippets/categories-title-snippet.html";
   var itemhtml ="./snippets/item-snippet.html";
   var itemtitlehtml = "./snippets/item-title-snippet.html";
 
