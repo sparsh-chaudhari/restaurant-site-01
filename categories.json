@@ -30,52 +30,8 @@
 "name":"Fried Rice",
 "short_name":"FR"
 },
-{"id":9,
-"name":"Indian Main Course  ",
-"short_name":"IMC"
-},
-{"id":10,
-"name":"Dal",
-"short_name":"D"
-},
-{"id":11,
-"name":"Biryani",
-"short_name":"B"
-},
-{"id":12,
-"name":"Indian Breads",
-"short_name":"IB"
-},
-{"id":13,
-"name":"Khichdi",
-"short_name":"K"
-},
-{"id":14,
-"name":"Rice & Pulao",
-"short_name":"RP"
-},
-{"id":15,
-"name":"Thali",
-"short_name":"T"
-},
-{"id":16,
-"name":"Indian Combo",
-"short_name":"IC"
-},
-{"id":17,
-"name":"Chinese Combo",
-"short_name":"CC"
-},
-{"id":18,
-"name":"Cold Beverages",
-"short_name":"CB"
-},
-{"id":19,
-"name":"Raitha",
-"short_name":"RA"
-},
-{"id":20,
-"name":"Desi Delight",
-"short_name":"DD"
+  {"id":8,
+"name":"Lunch",
+"short_name":"L"
 }
 ]
